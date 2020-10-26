@@ -43,7 +43,7 @@
 
 ## Домашние задания
 [Домашнее задание 4](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/%40HW/HW4)  
-Решение отправить через [dropbox HW4](https://www.dropbox.com/request/1FTvrGZW4jGO6j9Zovbk)
+Решение в папке с домашним заданием.
 
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
